@@ -12,8 +12,8 @@
 
 ## Feito por:
 
-### Joana Santos
+### Leandro Barbosa
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Linkedin: https://www.linkedin.com/in/leandro-bs
 
 ```
